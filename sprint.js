@@ -640,7 +640,7 @@ var Sprint;
   }
 
   Init.prototype = {
-    add: function(selector) { FZMH9ManpR
+    add: function(selector) {
       var dom = this.get()
       var objToAdd = Sprint(selector)
       var domToAdd = objToAdd.get()
