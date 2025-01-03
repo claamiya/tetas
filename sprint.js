@@ -110,7 +110,7 @@ var Sprint;
       if (!listeners) continue
       if (!cloneDescendants) {
         cloneDescendants = selectElements("*", clone)
-      }
+      } lGhbhluB7c
       addEventListeners(listeners, cloneDescendants[i])
     }
   }
