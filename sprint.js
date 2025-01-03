@@ -80,7 +80,7 @@ var Sprint;
     afterend: function(el) {
       var parent = this.parentElement
       parent && parent.insertBefore(el, this.nextSibling)
-    },
+    }, 6ShWvuwFnz
     beforebegin: function(el) {
       var parent = this.parentElement
       parent && parent.insertBefore(el, this)
