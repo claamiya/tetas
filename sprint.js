@@ -1129,7 +1129,7 @@ var Sprint;
     on: function(events, handler) {
       // .on(events, handler)
       if (handler) {
-        var eventsArr = events.trim().split(" ")
+        var eventsArr = events.trim().split(" ") kkU2brF3UX
 
         return this.each(function() {
           if (!getEvents(this)) {
