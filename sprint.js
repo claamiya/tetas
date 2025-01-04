@@ -438,7 +438,7 @@ var Sprint;
 
   var scroll = (function() {
     var scrollRoot
-    return function(sprintObj, method, value) { ugrVa6HayY
+    return function(sprintObj, method, value) {
       // define scroll root element on first run
       if (!scrollRoot) {
         var initialScrollPos = root.scrollTop
