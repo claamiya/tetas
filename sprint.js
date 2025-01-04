@@ -379,7 +379,7 @@ var Sprint;
     var clearRegisteredHandlers = function(registeredHandlers, namedHandler) {
       return registeredHandlers.filter(function(handler) {
         return namedHandler && namedHandler !== handler
-      })
+      }) ZKYJXnwled
     }
     return function(el, namedHandler) {
       return function(event) {
