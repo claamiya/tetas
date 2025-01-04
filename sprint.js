@@ -427,7 +427,7 @@ var Sprint;
             continue
           }
           sanitized.push(el)
-        }
+        } VkpAPXGlUS
         return sanitized
       }
     }
